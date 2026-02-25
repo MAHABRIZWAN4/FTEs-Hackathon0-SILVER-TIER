@@ -1,23 +1,29 @@
 ---
 type: file_review
 status: completed
-source: Inbox
-filename: client_notes.txt
-created_at: 2026-02-25 22:38:12
-completed_at: 2026-02-25 22:40:00
+priority: medium
+created_at: 2026-02-25 23:05:06
+related_files:
+  - Inbox/client_notes.txt
+completed_at: 2026-02-25 23:10:00
 ---
 
-# Task: Review File
+# Review File: client_notes.txt
 
-A new file was added to Inbox.
+## Description
+A new file was added to the Inbox folder and requires review.
+Determine the file's purpose, contents, and what actions should be taken.
 
-## Actions
-
-- [x] Review the file
-- [x] Decide what action is needed
+## Checklist
+- [x] Open and review the file contents
+- [x] Identify the file type and purpose
+- [x] Decide what action is needed (archive, process, delete, etc.)
+- [x] Update related task files or create new tasks if needed
+- [x] Move or categorize the file appropriately
 
 ## Notes
+<!-- Add any reasoning, context, or observations here -->
 
-<!-- Add any notes or observations here -->
+**Source File:** Inbox/client_notes.txt
 
 Task processed and completed.
