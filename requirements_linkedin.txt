@@ -1,0 +1,10 @@
+# LinkedIn Auto-Post Agent Dependencies
+
+# Browser automation
+playwright>=1.40.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Note: After installing playwright, run:
+# playwright install chromium

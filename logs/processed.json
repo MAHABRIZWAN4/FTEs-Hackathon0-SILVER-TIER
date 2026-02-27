@@ -1,0 +1,44 @@
+{
+  "processed_files": [
+    {
+      "filename": "test_task.md",
+      "processed_at": "unknown (migrated)",
+      "plan_created": "Plan_test_task.md"
+    },
+    {
+      "filename": "implement_user_auth.md",
+      "processed_at": "2026-02-27 10:19:56",
+      "plan_created": "Plan_implement_user_auth.md"
+    },
+    {
+      "filename": "fix_payment_bug.md",
+      "processed_at": "2026-02-27 10:32:37",
+      "plan_created": "Plan_fix_payment_bug.md"
+    },
+    {
+      "filename": "cloud_migration_research.md",
+      "processed_at": "2026-02-27 10:32:37",
+      "plan_created": "Plan_cloud_migration_research.md"
+    },
+    {
+      "filename": "implement_api_endpoint.md",
+      "processed_at": "2026-02-27 10:45:30",
+      "plan_created": "Plan_implement_api_endpoint.md"
+    },
+    {
+      "filename": "research_caching_strategy.md",
+      "processed_at": "2026-02-27 10:45:30",
+      "plan_created": "Plan_research_caching_strategy.md"
+    },
+    {
+      "filename": "fix_memory_leak.md",
+      "processed_at": "2026-02-27 10:45:30",
+      "plan_created": "Plan_fix_memory_leak.md"
+    },
+    {
+      "filename": "notification_system.md",
+      "processed_at": "2026-02-27 10:50:14",
+      "plan_created": "Plan_notification_system.md"
+    }
+  ]
+}

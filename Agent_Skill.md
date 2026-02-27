@@ -22,7 +22,7 @@ When the user says: **"Process tasks"**
    - Check off all checkboxes in the task file
 
 5. **Move the file to the Done folder**
-   - Move the task file from `Needs_Action/` to `Done/`
+   - Move the task file from `Needs_Action/` to `AI_Employee_Vault/Done/`
 
 6. **Update Dashboard.md**
    - Add the task under "Completed Tasks" section

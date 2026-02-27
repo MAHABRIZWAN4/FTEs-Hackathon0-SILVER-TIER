@@ -1,0 +1,13 @@
+# AI Employee - Bronze Tier Dependencies
+# This project uses only Python standard library modules + colorama for colorful UI
+
+colorama>=0.4.6
+
+# Standard library modules (no installation needed):
+# - os
+# - time
+# - datetime
+# - threading
+# - queue
+# - traceback
+# - json

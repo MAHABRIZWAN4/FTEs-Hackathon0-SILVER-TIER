@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "ad44218d7c8d5d56",
+    "type": "split",
+    "children": [
+      {
+        "id": "79a5b09eab3a5d82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "368cee41434cf226",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa014b54e2380c86",
+    "type": "split",
+    "children": [
+      {
+        "id": "320b038096a0031c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c745c707c7e1cb4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2f584c2d3f6cb857",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "17f915a6555f596f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4698bae81747e026",
+    "type": "split",
+    "children": [
+      {
+        "id": "44fd25bf47e03df7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a13ef0427869770d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "3a5f8c7b06b39276",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "14ded1adf5b0646d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ce9d3abe7a19c771",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a004617fe14d9272",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "368cee41434cf226",
+  "lastOpenFiles": [
+    "LINKEDIN_SETUP.md",
+    "AI_Employee_Vault/Done/approval_20260227_111024.md",
+    "AI_Employee_Vault/Actions/weekly_summary.md",
+    "AI_Employee_Vault/Done/test_webhook.md",
+    "AI_Employee_Vault/Actions/test_webhook.md",
+    "AI_Employee_Vault/Actions",
+    "scripts/mcp_executor.py",
+    "scripts/mcp_executor.py.tmp.12780.1772172236964",
+    "AI_Employee_Vault/Needs_Action/task_notification_system.md.md",
+    "AI_Employee_Vault/Needs_Action/Plan_notification_system.md",
+    "logs/ai_employee.lock",
+    "AI_Employee_Vault/Inbox/notification_system.md",
+    "AI_Employee_Vault/Inbox/notification_system.md.tmp.12780.1772171414282",
+    "logs/ai_employee.log",
+    "scripts/run_ai_employee.py",
+    "scripts/run_ai_employee.py.tmp.12780.1772171388928",
+    "AI_Employee_Vault/Needs_Action/task_research_caching_strategy.md.md",
+    "AI_Employee_Vault/Needs_Action/task_fix_memory_leak.md.md",
+    "AI_Employee_Vault/Needs_Action/task_implement_api_endpoint.md.md",
+    "AI_Employee_Vault/Needs_Action/Plan_fix_memory_leak.md",
+    "AI_Employee_Vault/Needs_Action/Plan_research_caching_strategy.md",
+    "AI_Employee_Vault/Needs_Action/Plan_implement_api_endpoint.md",
+    "AI_Employee_Vault/Inbox/fix_memory_leak.md",
+    "AI_Employee_Vault/Inbox/research_caching_strategy.md",
+    "AI_Employee_Vault/Inbox/implement_api_endpoint.md",
+    "scripts/integrated_demo.py",
+    "scripts/integrated_demo.py.tmp.12780.1772171047185",
+    "README.md",
+    "AI_Employee_Vault/Needs_Action/Plan_cloud_migration_research.md",
+    "AI_Employee_Vault/Needs_Action/Plan_fix_payment_bug.md",
+    "AI_Employee_Vault/Needs_Action/task_cloud_migration_research.md.md",
+    "AI_Employee_Vault/Inbox/cloud_migration_research.md",
+    "AI_Employee_Vault/Needs_Action/task_fix_payment_bug.md.md",
+    "AI_Employee_Vault/Inbox/fix_payment_bug.md",
+    "AI_Employee_Vault/Needs_Action/Plan_implement_user_auth.md",
+    "AI_Employee_Vault/Needs_Action/task_implement_user_auth.md.md"
+  ]
+}
