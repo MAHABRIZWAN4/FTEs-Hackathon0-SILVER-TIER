@@ -178,6 +178,7 @@
   },
   "active": "368cee41434cf226",
   "lastOpenFiles": [
+    "logs/screenshots",
     "LINKEDIN_SETUP.md",
     "AI_Employee_Vault/Done/approval_20260227_111024.md",
     "AI_Employee_Vault/Actions/weekly_summary.md",
@@ -212,7 +213,6 @@
     "AI_Employee_Vault/Inbox/cloud_migration_research.md",
     "AI_Employee_Vault/Needs_Action/task_fix_payment_bug.md.md",
     "AI_Employee_Vault/Inbox/fix_payment_bug.md",
-    "AI_Employee_Vault/Needs_Action/Plan_implement_user_auth.md",
-    "AI_Employee_Vault/Needs_Action/task_implement_user_auth.md.md"
+    "AI_Employee_Vault/Needs_Action/Plan_implement_user_auth.md"
   ]
 }
